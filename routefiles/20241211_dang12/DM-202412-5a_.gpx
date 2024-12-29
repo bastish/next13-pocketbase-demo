@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>DM-202412-5a </name>
+    <link href="https://ridewithgps.com/routes/49200287">
+      <text>DM-202412-5a </text>
+    </link>
+    <time>2024-12-05T20:28:07Z</time>
+  </metadata>
+  <rte>
+    <name>DM-202412-5a </name>
+    <rtept lat="34.97054" lon="138.91886">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="34.970609" lon="138.91938">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.97074" lon="138.920049">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.97007" lon="138.92031">
+      <name>Left</name>
+      <cmt>Turn left onto Shuzenji-Heda Line</cmt>
+    </rtept>
+    <rtept lat="34.970729" lon="138.927769">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.970079" lon="138.92809">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.970189" lon="138.92864">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.97101" lon="138.931619">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.97168" lon="138.931439">
+      <name>Right</name>
+      <cmt>Turn right onto 修善寺戸田線</cmt>
+    </rtept>
+    <rtept lat="34.975719" lon="138.936889">
+      <name>Straight</name>
+      <cmt>Continue onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.980019" lon="138.945509">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.981089" lon="138.948369">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.98602" lon="138.94938">
+      <name>Left</name>
+      <cmt>Turn left onto 韮山伊豆長岡修善寺線</cmt>
+    </rtept>
+    <rtept lat="34.989309" lon="138.943509">
+      <name>Left</name>
+      <cmt>Turn left onto 韮山伊豆長岡修善寺線</cmt>
+    </rtept>
+    <rtept lat="34.992729" lon="138.9289">
+      <name>Right</name>
+      <cmt>Turn right onto 韮山伊豆長岡修善寺線</cmt>
+    </rtept>
+    <rtept lat="35.00553" lon="138.934489">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.016499" lon="138.937259">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="35.019839" lon="138.93624">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto 韮山伊豆長岡修善寺線</cmt>
+    </rtept>
+    <rtept lat="35.04031" lon="138.93426">
+      <name>Right</name>
+      <cmt>Turn right onto 韮山伊豆長岡修善寺線</cmt>
+    </rtept>
+    <rtept lat="35.04707" lon="138.93389">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.04821" lon="138.93455">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="35.04906" lon="138.93531">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="35.05088" lon="138.93684">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="35.05621" lon="138.938679">
+      <name>Right</name>
+      <cmt>Turn right onto 静浦港韮山停車場線</cmt>
+    </rtept>
+    <rtept lat="35.055879" lon="138.940939">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.057449" lon="138.940909">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="35.05809" lon="138.940909">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="35.05818" lon="138.94096">
+      <name>Slight Left</name>
+      <cmt>Turn slight left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="35.061699" lon="138.941639">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.06388" lon="138.951769">
+      <name>Left</name>
+      <cmt>Turn left onto 函南停車場反射炉線</cmt>
+    </rtept>
+    <rtept lat="35.06594" lon="138.951">
+      <name>Right</name>
+      <cmt>Turn right onto 函南停車場反射炉線</cmt>
+    </rtept>
+    <rtept lat="35.08521" lon="138.968309">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.086929" lon="138.96938">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="35.08811" lon="138.970309">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="35.090509" lon="138.97482">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="35.09166" lon="138.978529">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="35.092859" lon="139.004679">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="35.093019" lon="139.00507">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="35.093169" lon="139.00526">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.09079" lon="139.009">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="35.090109" lon="139.011929">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.09229" lon="139.013289">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto 熱海函南線</cmt>
+    </rtept>
+    <rtept lat="35.11438" lon="139.04843">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto 熱海函南線</cmt>
+    </rtept>
+    <rtept lat="35.097759" lon="139.06428">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="35.09498" lon="139.066469">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.09478" lon="139.06805">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.09343" lon="139.07043">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.09023" lon="139.07411">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto national route 135</cmt>
+    </rtept>
+    <rtept lat="35.08548" lon="139.07842">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="35.08544" lon="139.0795">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="35.08591" lon="139.07763">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.08587" lon="139.07763">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.08542" lon="139.07953">
+      <name>Right</name>
+      <cmt>Turn right toward 錦ヶ浦トンネル/​国道135号</cmt>
+    </rtept>
+    <rtept lat="35.08549" lon="139.07841">
+      <name>Right</name>
+      <cmt>Turn right onto 錦ヶ浦トンネル/​国道135号</cmt>
+    </rtept>
+    <rtept lat="35.10014" lon="139.07804">
+      <name>Right</name>
+      <cmt>Turn right onto 熱海ビーチライン (signs for 東京/​小田原)</cmt>
+    </rtept>
+    <rtept lat="35.14102" lon="139.11019">
+      <name>Right</name>
+      <cmt>Turn right at 門川（交差点） onto 国道135号</cmt>
+    </rtept>
+    <rtept lat="35.15651" lon="139.1328">
+      <name>Right</name>
+      <cmt>Turn right at 真鶴駅前（交差点） onto 県道739号</cmt>
+    </rtept>
+    <rtept lat="35.15579" lon="139.13477">
+      <name>Left</name>
+      <cmt>Slight left to stay on 県道739号</cmt>
+    </rtept>
+    <rtept lat="35.14669" lon="139.1554">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.14495" lon="139.15222">
+      <name>Left</name>
+      <cmt>Turn left onto 県道739号</cmt>
+    </rtept>
+    <rtept lat="35.15579" lon="139.13477">
+      <name>Left</name>
+      <cmt>Turn left to stay on 県道739号</cmt>
+    </rtept>
+    <rtept lat="35.15651" lon="139.1328">
+      <name>Right</name>
+      <cmt>Turn right at 真鶴駅前（交差点） onto 国道135号</cmt>
+    </rtept>
+    <rtept lat="35.20271" lon="139.13977">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.2026" lon="139.13996">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.2026" lon="139.13996">
+      <name>Right</name>
+      <cmt>Turn right toward 国道135号</cmt>
+    </rtept>
+    <rtept lat="35.20271" lon="139.13977">
+      <name>Right</name>
+      <cmt>Turn right onto 国道135号</cmt>
+    </rtept>
+    <rtept lat="35.20876" lon="139.14139">
+      <name>Left</name>
+      <cmt>Turn left at 根府川（交差点） onto 県道740号 (signs for Nebukawa Sta)</cmt>
+    </rtept>
+    <rtept lat="35.20668" lon="139.14095">
+      <name>Straight</name>
+      <cmt>Make a U-turn</cmt>
+    </rtept>
+    <rtept lat="35.2086" lon="139.14115">
+      <name>Left</name>
+      <cmt>Slight left</cmt>
+    </rtept>
+    <rtept lat="35.21641" lon="139.14118">
+      <name>Left</name>
+      <cmt>Slight left</cmt>
+    </rtept>
+    <rtept lat="35.22361" lon="139.14179">
+      <name>Straight</name>
+      <cmt>Continue onto 国道135号</cmt>
+    </rtept>
+    <rtept lat="35.23289" lon="139.14291">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.23661" lon="139.14515">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.23699" lon="139.14389">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.24164" lon="139.14472">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.24167" lon="139.14466">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.24268" lon="139.14528">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.24313" lon="139.14418">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.24349" lon="139.1444">
+      <name>Left</name>
+      <cmt>Turn left toward 大窪橋</cmt>
+    </rtept>
+    <rtept lat="35.24447" lon="139.14283">
+      <name>Right</name>
+      <cmt>Turn right onto 大窪橋</cmt>
+    </rtept>
+    <rtept lat="35.24584" lon="139.14376">
+      <name>Left</name>
+      <cmt>Turn left at 板橋（交差点） onto 東海道/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.23526" lon="139.11438">
+      <name>Right</name>
+      <cmt>Slight right to stay on 国道1号</cmt>
+    </rtept>
+    <rtept lat="35.23474" lon="139.11375">
+      <name>Straight</name>
+      <cmt>Take the ramp to 国道1号</cmt>
+    </rtept>
+    <rtept lat="35.23412" lon="139.11219">
+      <name>Straight</name>
+      <cmt>Merge onto 国道1号</cmt>
+    </rtept>
+    <rtept lat="35.23265" lon="139.09755">
+      <name>Left</name>
+      <cmt>Slight left toward 国道1号</cmt>
+    </rtept>
+    <rtept lat="35.23273" lon="139.09568">
+      <name>Left</name>
+      <cmt>Slight left onto 国道1号</cmt>
+    </rtept>
+    <rtept lat="35.2347" lon="139.08056">
+      <name>Left</name>
+      <cmt>Turn left onto しだれ桜通り</cmt>
+    </rtept>
+    <rtept lat="35.23734" lon="139.0742">
+      <name>Left</name>
+      <cmt>Slight left to stay on しだれ桜通り</cmt>
+    </rtept>
+    <rtept lat="35.238" lon="139.07311">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.2382" lon="139.07229">
+      <name>Left</name>
+      <cmt>Turn left toward 東海道/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.23801" lon="139.07193">
+      <name>Right</name>
+      <cmt>Turn right toward 東海道/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.2385" lon="139.07145">
+      <name>Left</name>
+      <cmt>Turn left onto 東海道/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.24494" lon="139.0593">
+      <name>Straight</name>
+      <cmt>At 宮の下（交差点）, continue onto 国道138号 (signs for Gotenba/​Sengokuhara)</cmt>
+    </rtept>
+    <rtept lat="35.25058" lon="139.05213">
+      <name>Right</name>
+      <cmt>Slight right onto 県道723号 (signs for Gora/​Ninotaira)</cmt>
+    </rtept>
+    <rtept lat="35.24958" lon="139.05108">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.24958" lon="139.05108">
+      <name>Right</name>
+      <cmt>Turn right onto 県道723号</cmt>
+    </rtept>
+    <rtept lat="35.25138" lon="139.05177">
+      <name>Left</name>
+      <cmt>Turn left toward 国道138号</cmt>
+    </rtept>
+    <rtept lat="35.25217" lon="139.05127">
+      <name>Right</name>
+      <cmt>Sharp right toward 国道138号</cmt>
+    </rtept>
+    <rtept lat="35.25163" lon="139.05203">
+      <name>Left</name>
+      <cmt>Turn left onto 国道138号</cmt>
+    </rtept>
+    <rtept lat="35.25198" lon="139.05212">
+      <name>Right</name>
+      <cmt>Turn right (signs for 箱根老人ホーム)</cmt>
+    </rtept>
+    <rtept lat="35.25213" lon="139.05519">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.25956" lon="139.04963">
+      <name>Right</name>
+      <cmt>Slight right</cmt>
+    </rtept>
+    <rtept lat="35.26486" lon="139.04519">
+      <name>Straight</name>
+      <cmt>Continue onto 木墓橋</cmt>
+    </rtept>
+    <rtept lat="35.26553" lon="139.02035">
+      <name>Right</name>
+      <cmt>Slight right onto 国道138号</cmt>
+    </rtept>
+    <rtept lat="35.27145" lon="139.01234">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.27152" lon="139.01141">
+      <name>Left</name>
+      <cmt>Turn left toward 湿原通り</cmt>
+    </rtept>
+    <rtept lat="35.27101" lon="139.01089">
+      <name>Right</name>
+      <cmt>Turn right toward 湿原通り</cmt>
+    </rtept>
+    <rtept lat="35.27144" lon="139.0102">
+      <name>Left</name>
+      <cmt>Turn left onto 湿原通り</cmt>
+    </rtept>
+    <rtept lat="35.26161" lon="139.00254">
+      <name>Right</name>
+      <cmt>Turn right onto 北三番</cmt>
+    </rtept>
+    <rtept lat="35.26074" lon="138.99644">
+      <name>Left</name>
+      <cmt>Turn left onto プリンス通り</cmt>
+    </rtept>
+    <rtept lat="35.25259" lon="138.99836">
+      <name>Right</name>
+      <cmt>Turn right onto 県道75号</cmt>
+    </rtept>
+    <rtept lat="35.25122" lon="138.99914">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.24908" lon="138.99665">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.24672" lon="138.99545">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.24821" lon="138.9984">
+      <name>Right</name>
+      <cmt>Sharp right onto 県道75号</cmt>
+    </rtept>
+    <rtept lat="35.23459" lon="138.99831">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.23403" lon="138.99818">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.21391" lon="139.00899">
+      <name>Straight</name>
+      <cmt>Continue onto 神山通り</cmt>
+    </rtept>
+    <rtept lat="35.21062" lon="139.01205">
+      <name>Straight</name>
+      <cmt>Continue straight onto 神社通り</cmt>
+    </rtept>
+    <rtept lat="35.20301" lon="139.03157">
+      <name>Straight</name>
+      <cmt>Continue straight through 元箱根（交差点） onto 国道1号/​県道75号</cmt>
+    </rtept>
+    <rtept lat="35.19907" lon="139.02975">
+      <name>Left</name>
+      <cmt>Slight left toward 東海道</cmt>
+    </rtept>
+    <rtept lat="35.19808" lon="139.0296">
+      <name>Straight</name>
+      <cmt>Continue onto 東海道</cmt>
+    </rtept>
+    <rtept lat="35.19455" lon="139.02772">
+      <name>Left</name>
+      <cmt>Turn left onto 国道1号/​県道75号</cmt>
+    </rtept>
+    <rtept lat="35.18904" lon="139.02503">
+      <name>Right</name>
+      <cmt>Turn right at 箱根関所南（交差点）</cmt>
+    </rtept>
+    <rtept lat="35.18895" lon="139.02318">
+      <name>Left</name>
+      <cmt>Turn left toward 東海道/​県道737号</cmt>
+    </rtept>
+    <rtept lat="35.18807" lon="139.02261">
+      <name>Right</name>
+      <cmt>Turn right onto 東海道/​県道737号</cmt>
+    </rtept>
+    <rtept lat="35.19073" lon="139.01974">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.19123" lon="139.0186">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.19007" lon="139.01671">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.18831" lon="139.01659">
+      <name>Left</name>
+      <cmt>Turn left toward 東海道/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.18749" lon="139.01631">
+      <name>Right</name>
+      <cmt>Turn right onto 東海道/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.18377" lon="139.01566">
+      <name>Left</name>
+      <cmt>Slight left onto 東海道</cmt>
+    </rtept>
+    <rtept lat="35.18377" lon="139.01566">
+      <name>Left</name>
+      <cmt>Turn left onto 東海道/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.16185" lon="139.00008">
+      <name>Left</name>
+      <cmt>Turn left onto 東海道</cmt>
+    </rtept>
+    <rtept lat="35.15825" lon="138.99752">
+      <name>Right</name>
+      <cmt>Turn right to stay on 東海道</cmt>
+    </rtept>
+    <rtept lat="35.157" lon="138.99593">
+      <name>Right</name>
+      <cmt>Turn right to stay on 東海道</cmt>
+    </rtept>
+    <rtept lat="35.15696" lon="138.99587">
+      <name>Left</name>
+      <cmt>Turn left to stay on 東海道</cmt>
+    </rtept>
+    <rtept lat="35.15479" lon="138.99482">
+      <name>Left</name>
+      <cmt>Slight left</cmt>
+    </rtept>
+    <rtept lat="35.15157" lon="138.99138">
+      <name>Straight</name>
+      <cmt>Continue onto 東海道</cmt>
+    </rtept>
+    <rtept lat="35.1511" lon="138.99033">
+      <name>Left</name>
+      <cmt>Turn left at 山中城口（交差点） onto 東海道/​笹原山中バイパス/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.14911" lon="138.98925">
+      <name>Left</name>
+      <cmt>Slight left</cmt>
+    </rtept>
+    <rtept lat="35.14949" lon="138.98783">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.14683" lon="138.98642">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.14549" lon="138.98479">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.14575" lon="138.98409">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.1456" lon="138.98337">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.14546" lon="138.98343">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.14246" lon="138.977">
+      <name>Left</name>
+      <cmt>Turn left onto 東海道/​国道1号</cmt>
+    </rtept>
+    <rtept lat="35.14172" lon="138.97498">
+      <name>Right</name>
+      <cmt>Turn right onto 県道142号 (signs for Mitsuyashinden)</cmt>
+    </rtept>
+    <rtept lat="35.14448" lon="138.97268">
+      <name>Straight</name>
+      <cmt>Continue onto 東海道</cmt>
+    </rtept>
+    <rtept lat="35.13813" lon="138.96296">
+      <name>Left</name>
+      <cmt>Slight left</cmt>
+    </rtept>
+    <rtept lat="35.13762" lon="138.95951">
+      <name>Straight</name>
+      <cmt>At 市の山新田（交差点）, continue onto 東海道</cmt>
+    </rtept>
+    <rtept lat="35.13639" lon="138.95261">
+      <name>Right</name>
+      <cmt>Turn right toward 東海道</cmt>
+    </rtept>
+    <rtept lat="35.13637" lon="138.95212">
+      <name>Straight</name>
+      <cmt>Continue straight onto 東海道</cmt>
+    </rtept>
+    <rtept lat="35.13248" lon="138.94497">
+      <name>Left</name>
+      <cmt>Turn left toward 国道1号</cmt>
+    </rtept>
+    <rtept lat="35.1317" lon="138.94501">
+      <name>Left</name>
+      <cmt>Turn left at 塚原新田（交差点） onto 国道1号</cmt>
+    </rtept>
+    <rtept lat="35.1318" lon="138.94624">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

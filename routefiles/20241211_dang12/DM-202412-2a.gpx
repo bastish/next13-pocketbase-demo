@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>DM-202412-2a</name>
+    <link href="https://ridewithgps.com/routes/49199760">
+      <text>DM-202412-2a</text>
+    </link>
+    <time>2024-12-05T17:59:11Z</time>
+  </metadata>
+  <rte>
+    <name>DM-202412-2a</name>
+    <rtept lat="34.9057" lon="138.78654">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="34.908829" lon="138.79162">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.908829" lon="138.79162">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.90235" lon="138.782259">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.89995" lon="138.780469">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.89852" lon="138.77926">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.89588" lon="138.7766">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.8942" lon="138.77317">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.894299" lon="138.772499">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.892999" lon="138.77005">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.88928" lon="138.76477">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.88825" lon="138.76764">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.88825" lon="138.76764">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.88928" lon="138.76477">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.886489" lon="138.76279">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.886219" lon="138.763359">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.88475" lon="138.76233">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.884649" lon="138.762279">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.882999" lon="138.763369">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.883129" lon="138.7635">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.8824" lon="138.76376">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.88214" lon="138.763549">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.88165" lon="138.76375">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.88077" lon="138.7634">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.88068" lon="138.76342">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.880109" lon="138.763559">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.879369" lon="138.76351">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.87905" lon="138.76334">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.878339" lon="138.76268">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.87585" lon="138.763259">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.875119" lon="138.764629">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.87452" lon="138.76393">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.87329" lon="138.763989">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.86904" lon="138.76906">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.86461" lon="138.7642">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.86439" lon="138.76594">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.85489" lon="138.77692">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.85111" lon="138.777049">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84959" lon="138.78367">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.84928" lon="138.78403">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.847699" lon="138.7908">
+      <name>Left</name>
+      <cmt>Turn left onto 仁科峠宇久須線</cmt>
+    </rtept>
+    <rtept lat="34.84771" lon="138.791499">
+      <name>Left</name>
+      <cmt>Turn left onto 仁科峠宇久須線</cmt>
+    </rtept>
+    <rtept lat="34.84782" lon="138.791659">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84735" lon="138.7936">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.845499" lon="138.79862">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.845499" lon="138.79862">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.84782" lon="138.791659">
+      <name>Left</name>
+      <cmt>Turn left onto 仁科峠宇久須線</cmt>
+    </rtept>
+    <rtept lat="34.84771" lon="138.791499">
+      <name>Right</name>
+      <cmt>Turn right onto 仁科峠宇久須線</cmt>
+    </rtept>
+    <rtept lat="34.84704" lon="138.78901">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto 仁科峠宇久須線</cmt>
+    </rtept>
+    <rtept lat="34.84706" lon="138.78877">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84862" lon="138.784749">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84849" lon="138.78034">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84786" lon="138.78036">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84802" lon="138.7788">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84677" lon="138.778839">
+      <name>Right</name>
+      <cmt>Turn right onto 仁科峠宇久須線</cmt>
+    </rtept>
+    <rtept lat="34.84677" lon="138.7761">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.847139" lon="138.77489">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84708" lon="138.774729">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.846999" lon="138.77476">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84663" lon="138.774209">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.847049" lon="138.773569">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.843329" lon="138.767929">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84169" lon="138.76214">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.841609" lon="138.761479">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.842819" lon="138.761949">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.842029" lon="138.76361">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.84177" lon="138.763469">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="34.84178" lon="138.763079">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84169" lon="138.76305">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84169" lon="138.76214">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.843329" lon="138.767929">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.843289" lon="138.769189">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.844559" lon="138.770269">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.83971" lon="138.769899">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.83163" lon="138.76772">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.830299" lon="138.76779">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.8278" lon="138.767409">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.82731" lon="138.7678">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.827149" lon="138.768989">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.82702" lon="138.768989">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.827009" lon="138.7694">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.82709" lon="138.770959">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.82792" lon="138.774199">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.8278" lon="138.77441">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.826989" lon="138.77747">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.826989" lon="138.77747">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.8278" lon="138.77441">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.82619" lon="138.771869">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.82635" lon="138.766959">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.82228" lon="138.768639">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.818169" lon="138.771509">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.812129" lon="138.772579">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.81088" lon="138.772949">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.80815" lon="138.772589">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.80909" lon="138.767829">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.80979" lon="138.76771">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.808879" lon="138.766069">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.807579" lon="138.765969">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.80432" lon="138.763819">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.804249" lon="138.763009">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.80141" lon="138.762">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.80173" lon="138.763089">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.80101" lon="138.763739">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="34.797909" lon="138.765429">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.791729" lon="138.763739">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.786519" lon="138.76455">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.786519" lon="138.76455">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.78302" lon="138.767499">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.78265" lon="138.767139">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="34.782599" lon="138.767109">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.782689" lon="138.7662">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.78281" lon="138.76575">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.78241" lon="138.76715">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.782509" lon="138.76717">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.78256" lon="138.76727">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.78246" lon="138.767379">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.782549" lon="138.76752">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.782889" lon="138.767659">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.77851" lon="138.76904">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.777269" lon="138.767409">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.777269" lon="138.76753">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.77605" lon="138.76852">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.77243" lon="138.771599">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.77173" lon="138.772839">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.77054" lon="138.772049">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.770089" lon="138.77226">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.76976" lon="138.77396">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.76989" lon="138.774009">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.76754" lon="138.77646">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.76775" lon="138.77712">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

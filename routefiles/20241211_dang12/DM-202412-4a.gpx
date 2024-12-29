@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>DM-202412-4a</name>
+    <link href="https://ridewithgps.com/routes/49200054">
+      <text>DM-202412-4a</text>
+    </link>
+    <time>2024-12-05T19:23:38Z</time>
+  </metadata>
+  <rte>
+    <name>DM-202412-4a</name>
+    <rtept lat="34.75853" lon="138.98298">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="34.763349" lon="138.97955">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.76399" lon="138.980059">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.76842" lon="138.97411">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.76905" lon="138.97241">
+      <name>Right</name>
+      <cmt>Turn right onto 下佐ヶ野谷津線</cmt>
+    </rtept>
+    <rtept lat="34.77341" lon="138.958399">
+      <name>Straight</name>
+      <cmt>Continue onto national route 414</cmt>
+    </rtept>
+    <rtept lat="34.78986" lon="138.94204">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.790119" lon="138.94216">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.79147" lon="138.93917">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.794709" lon="138.93428">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="34.795269" lon="138.934019">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.79835" lon="138.93283">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.8009" lon="138.933319">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.79991" lon="138.93364">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto national route 414</cmt>
+    </rtept>
+    <rtept lat="34.813449" lon="138.927409">
+      <name>Uturn</name>
+      <cmt>Make a U-turn onto national route 414</cmt>
+    </rtept>
+    <rtept lat="34.824149" lon="138.936549">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.82317" lon="138.935809">
+      <name>Left</name>
+      <cmt>Turn left onto National Route 414</cmt>
+    </rtept>
+    <rtept lat="34.82519" lon="138.939239">
+      <name>Left</name>
+      <cmt>Turn left onto National Route 414</cmt>
+    </rtept>
+    <rtept lat="34.83614" lon="138.93569">
+      <name>Slight Left</name>
+      <cmt>Turn slight left onto National Route 414</cmt>
+    </rtept>
+    <rtept lat="34.83533" lon="138.92934">
+      <name>Right</name>
+      <cmt>Turn right onto national route 414</cmt>
+    </rtept>
+    <rtept lat="34.850919" lon="138.92098">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.850919" lon="138.92098">
+      <name>Left</name>
+      <cmt>Turn left onto national route 414</cmt>
+    </rtept>
+    <rtept lat="34.87242" lon="138.92665">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.873349" lon="138.927">
+      <name>Left</name>
+      <cmt>Turn left onto national route 414</cmt>
+    </rtept>
+    <rtept lat="34.90271" lon="138.925809">
+      <name>Right</name>
+      <cmt>Turn right onto 修善寺天城湯ヶ島線</cmt>
+    </rtept>
+    <rtept lat="34.91663" lon="138.927219">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.91838" lon="138.927049">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.91994" lon="138.926239">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.920759" lon="138.92718">
+      <name>Right</name>
+      <cmt>Turn right onto national route 414</cmt>
+    </rtept>
+    <rtept lat="34.92277" lon="138.930199">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.92364" lon="138.92486">
+      <name>Left</name>
+      <cmt>Turn left onto 国道136号旧道</cmt>
+    </rtept>
+    <rtept lat="34.92847" lon="138.93266">
+      <name>Left</name>
+      <cmt>Turn left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.93223" lon="138.933499">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.93356" lon="138.934039">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.93358" lon="138.93336">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.93599" lon="138.93245">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.937479" lon="138.934929">
+      <name>Left</name>
+      <cmt>Turn left onto 修善寺天城湯ヶ島線</cmt>
+    </rtept>
+    <rtept lat="34.948069" lon="138.93721">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.94891" lon="138.935109">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.975719" lon="138.936889">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto 修善寺戸田線</cmt>
+    </rtept>
+    <rtept lat="34.970859" lon="138.91806">
+      <name>Left</name>
+      <cmt>Turn left onto Shuzenji-Heda Line</cmt>
+    </rtept>
+    <rtept lat="34.970969" lon="138.916309">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.97109" lon="138.91538">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto Shuzenji-Heda Line</cmt>
+    </rtept>
+    <rtept lat="34.97089" lon="138.91169">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.974" lon="138.91383">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.974019" lon="138.913709">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.977329" lon="138.879489">
+      <name>Straight</name>
+      <cmt>Continue onto Shuzenji-Heda Line</cmt>
+    </rtept>
+    <rtept lat="34.97501" lon="138.85098">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>
