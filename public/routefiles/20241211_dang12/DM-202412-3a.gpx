@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>DM-202412-3a</name>
+    <link href="https://ridewithgps.com/routes/49199977">
+      <text>DM-202412-3a</text>
+    </link>
+    <time>2024-12-05T19:02:03Z</time>
+  </metadata>
+  <rte>
+    <name>DM-202412-3a</name>
+    <rtept lat="34.76783" lon="138.77731">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="34.767939" lon="138.77758">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.76031" lon="138.77754">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.75794" lon="138.78045">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.757239" lon="138.7782">
+      <name>Left</name>
+      <cmt>Turn left onto 松崎港線</cmt>
+    </rtept>
+    <rtept lat="34.75541" lon="138.777879">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.75375" lon="138.78086">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.75103" lon="138.77595">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.75002" lon="138.776359">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.74977" lon="138.77407">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.752799" lon="138.77101">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.75212" lon="138.77006">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.75113" lon="138.7695">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.75113" lon="138.7695">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.726389" lon="138.745289">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.72597" lon="138.74503">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.726389" lon="138.745289">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.72566" lon="138.743029">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.72568" lon="138.742769">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="34.72568" lon="138.742769">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.725519" lon="138.74291">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.72123" lon="138.747069">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.712149" lon="138.76037">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.70786" lon="138.75841">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.699349" lon="138.76081">
+      <name>Slight Left</name>
+      <cmt>Turn slight left onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.69864" lon="138.7602">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto Hagachisaki Line</cmt>
+    </rtept>
+    <rtept lat="34.69253" lon="138.7492">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.68725" lon="138.765239">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.681799" lon="138.768559">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.68458" lon="138.778599">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.67238" lon="138.780639">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.67229" lon="138.780629">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.67104" lon="138.78883">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto 下田南伊豆線</cmt>
+    </rtept>
+    <rtept lat="34.670089" lon="138.78989">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.65291" lon="138.812079">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.65199" lon="138.814499">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.65127" lon="138.81658">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.651109" lon="138.817529">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.640209" lon="138.817539">
+      <name>Right</name>
+      <cmt>Turn right onto 下田石廊松崎線</cmt>
+    </rtept>
+    <rtept lat="34.610119" lon="138.838659">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.606019" lon="138.8433">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.602109" lon="138.84581">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.611689" lon="138.84399">
+      <name>Straight</name>
+      <cmt>Continue onto 下田石廊松崎線</cmt>
+    </rtept>
+    <rtept lat="34.6247" lon="138.877979">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.6247" lon="138.877979">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto 下田石廊松崎線</cmt>
+    </rtept>
+    <rtept lat="34.626529" lon="138.884969">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.62678" lon="138.884959">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.626859" lon="138.88539">
+      <name>Slight Left</name>
+      <cmt>Turn slight left onto 下田石廊松崎線</cmt>
+    </rtept>
+    <rtept lat="34.642239" lon="138.88742">
+      <name>Left</name>
+      <cmt>Turn left onto 下田石廊松崎線</cmt>
+    </rtept>
+    <rtept lat="34.647009" lon="138.8851">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.64098" lon="138.91365">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.64826" lon="138.91448">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.655069" lon="138.917909">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.656349" lon="138.91707">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.656369" lon="138.91695">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.658359" lon="138.916559">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.65891" lon="138.91705">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.6609" lon="138.91691">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.661019" lon="138.91831">
+      <name>Right</name>
+      <cmt>Turn right onto National Highway Route 136</cmt>
+    </rtept>
+    <rtept lat="34.673359" lon="138.938949">
+      <name>Right</name>
+      <cmt>Turn right onto 下田港線</cmt>
+    </rtept>
+    <rtept lat="34.67104" lon="138.94687">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.67044" lon="138.94519">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.66959" lon="138.945779">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.669239" lon="138.94588">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.66639" lon="138.944319">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.66526" lon="138.94601">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.66654" lon="138.94641">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.666889" lon="138.94618">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.66759" lon="138.945509">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="34.67048" lon="138.943239">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.6705" lon="138.94301">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.672079" lon="138.94347">
+      <name>Right</name>
+      <cmt>Turn right onto 下田港線</cmt>
+    </rtept>
+    <rtept lat="34.671949" lon="138.943899">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.67277" lon="138.9442">
+      <name>Right</name>
+      <cmt>Turn right onto 大横町通り</cmt>
+    </rtept>
+    <rtept lat="34.672639" lon="138.944689">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.673559" lon="138.94509">
+      <name>Right</name>
+      <cmt>Turn right onto ひもの横丁</cmt>
+    </rtept>
+    <rtept lat="34.673559" lon="138.94511">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.67464" lon="138.94562">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.67458" lon="138.945849">
+      <name>Left</name>
+      <cmt>Turn left onto 大川端通り</cmt>
+    </rtept>
+    <rtept lat="34.67624" lon="138.94623">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.67543" lon="138.948789">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.6755" lon="138.948889">
+      <name>Right</name>
+      <cmt>Turn right onto national route 135</cmt>
+    </rtept>
+    <rtept lat="34.67548" lon="138.94895">
+      <name>Slight Left</name>
+      <cmt>Keep left onto national route 135</cmt>
+    </rtept>
+    <rtept lat="34.67717" lon="138.958739">
+      <name>Right</name>
+      <cmt>Turn right onto 須崎柿崎線</cmt>
+    </rtept>
+    <rtept lat="34.6641" lon="138.96388">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.662879" lon="138.9623">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.661669" lon="138.962229">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.66001" lon="138.96193">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.65322" lon="138.965379">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.65248" lon="138.96495">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.65222" lon="138.965099">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.65222" lon="138.965099">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.65689" lon="138.96739">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="34.66368" lon="138.96462">
+      <name>Right</name>
+      <cmt>Turn right onto 須崎柿崎線</cmt>
+    </rtept>
+    <rtept lat="34.664899" lon="138.979079">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.66421" lon="138.98047">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.66198" lon="138.98343">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.66421" lon="138.98047">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.664899" lon="138.979079">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="34.66497" lon="138.966189">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.666999" lon="138.965629">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.673089" lon="138.97285">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="34.673579" lon="138.970759">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="34.67489" lon="138.97132">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.67691" lon="138.96783">
+      <name>Left</name>
+      <cmt>Turn left onto national route 135</cmt>
+    </rtept>
+    <rtept lat="34.74286" lon="138.996619">
+      <name>Left</name>
+      <cmt>Turn left onto 下佐ヶ野谷津線</cmt>
+    </rtept>
+    <rtept lat="34.75248" lon="138.98724">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="34.7585" lon="138.98413">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.758129" lon="138.983109">
+      <name>Right</name>
+      <cmt>Turn right onto 下佐ヶ野谷津線</cmt>
+    </rtept>
+    <rtept lat="34.75833" lon="138.98304">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

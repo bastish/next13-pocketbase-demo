@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>D-20214.12.1</name>
+    <link href="https://ridewithgps.com/routes/49188687">
+      <text>D-20214.12.1</text>
+    </link>
+    <time>2024-12-04T01:55:47Z</time>
+  </metadata>
+  <rte>
+    <name>D-20214.12.1</name>
+    <rtept lat="35.00486" lon="137.05311">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="35.00001" lon="137.06176">
+      <name>Left</name>
+      <cmt>Turn left at 牛田（交差点） onto 牛田町15号線</cmt>
+    </rtept>
+    <rtept lat="35.0004" lon="137.0618">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.99876" lon="137.06438">
+      <name>Left</name>
+      <cmt>Turn left onto 国道1号</cmt>
+    </rtept>
+    <rtept lat="34.99264" lon="137.07891">
+      <name>Left</name>
+      <cmt>Turn left at 今本町西（交差点） onto 県道12号 (signs for Toyota)</cmt>
+    </rtept>
+    <rtept lat="35.04091" lon="137.1358">
+      <name>Straight</name>
+      <cmt>At 大林町８丁目（交差点）, continue onto 県道488号 (signs for Central Toyota)</cmt>
+    </rtept>
+    <rtept lat="35.04367" lon="137.13953">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.04928" lon="137.15236">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.05077" lon="137.15226">
+      <name>Right</name>
+      <cmt>Turn right toward 豊田南北線/​国道248号</cmt>
+    </rtept>
+    <rtept lat="35.0508" lon="137.15259">
+      <name>Right</name>
+      <cmt>Turn right toward 豊田南北線/​国道248号</cmt>
+    </rtept>
+    <rtept lat="35.0505" lon="137.15434">
+      <name>Left</name>
+      <cmt>Turn left onto 豊田南北線/​国道248号</cmt>
+    </rtept>
+    <rtept lat="35.05251" lon="137.15604">
+      <name>Right</name>
+      <cmt>Turn right at トヨタ町南（交差点） onto 外環状線/​県道491号 (signs for Tokai-Kanjo Expressway)</cmt>
+    </rtept>
+    <rtept lat="35.04709" lon="137.174">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.0498" lon="137.17562">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.05112" lon="137.17651">
+      <name>Right</name>
+      <cmt>Turn right toward 外環状線/​県道491号</cmt>
+    </rtept>
+    <rtept lat="35.05103" lon="137.17716">
+      <name>Straight</name>
+      <cmt>At 平和町６丁目（交差点）, continue onto 外環状線/​県道491号</cmt>
+    </rtept>
+    <rtept lat="35.05646" lon="137.18969">
+      <name>Right</name>
+      <cmt>Turn right at 大見町１丁目（交差点） onto 県道341号</cmt>
+    </rtept>
+    <rtept lat="35.05032" lon="137.20705">
+      <name>Left</name>
+      <cmt>Turn left at 中垣内町元屋敷（交差点） onto 県道39号 (signs for 新城/​足助/​愛知県道39号)</cmt>
+    </rtept>
+    <rtept lat="35.05395" lon="137.21239">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.05756" lon="137.21864">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.05485" lon="137.2195">
+      <name>Right</name>
+      <cmt>Turn right toward 国道301号</cmt>
+    </rtept>
+    <rtept lat="35.05461" lon="137.21939">
+      <name>Left</name>
+      <cmt>Turn left onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="35.0566" lon="137.22866">
+      <name>Straight</name>
+      <cmt>Take the ramp</cmt>
+    </rtept>
+    <rtept lat="35.05593" lon="137.23089">
+      <name>Left</name>
+      <cmt>Slight left onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="35.05541" lon="137.23468">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.05408" lon="137.23583">
+      <name>Right</name>
+      <cmt>Turn right onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="35.04381" lon="137.24965">
+      <name>Right</name>
+      <cmt>Turn right (signs for 滝脇)</cmt>
+    </rtept>
+    <rtept lat="35.03768" lon="137.24677">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.03676" lon="137.26289">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.03702" lon="137.26979">
+      <name>Right</name>
+      <cmt>Turn right onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="35.02822" lon="137.28894">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.02824" lon="137.28899">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.02852" lon="137.29136">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.02851" lon="137.2906">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.02802" lon="137.29298">
+      <name>Left</name>
+      <cmt>Turn left onto 国道301号/​県道477号</cmt>
+    </rtept>
+    <rtept lat="35.02498" lon="137.3357">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.01956" lon="137.33762">
+      <name>Left</name>
+      <cmt>Turn left toward 国道301号</cmt>
+    </rtept>
+    <rtept lat="35.01953" lon="137.33782">
+      <name>Right</name>
+      <cmt>Turn right onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="35.01553" lon="137.36136">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.01472" lon="137.36119">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.01429" lon="137.36219">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="35.01392" lon="137.36491">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.0139" lon="137.37085">
+      <name>Right</name>
+      <cmt>Turn right onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="35.01522" lon="137.36969">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="35.01207" lon="137.38486">
+      <name>Right</name>
+      <cmt>Slight right</cmt>
+    </rtept>
+    <rtept lat="34.99825" lon="137.41002">
+      <name>Left</name>
+      <cmt>Turn left onto 国道301号/​県道35号</cmt>
+    </rtept>
+    <rtept lat="34.99868" lon="137.43989">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.99337" lon="137.43665">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.9909" lon="137.43675">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.99084" lon="137.43685">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.986" lon="137.4285">
+      <name>Left</name>
+      <cmt>Turn left onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="34.98188" lon="137.42558">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.98039" lon="137.42886">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.97788" lon="137.43002">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.97781" lon="137.42981">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.97388" lon="137.43117">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.97344" lon="137.42926">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.96736" lon="137.42632">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.96745" lon="137.42622">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.96367" lon="137.4213">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.9637" lon="137.42127">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.96234" lon="137.41976">
+      <name>Left</name>
+      <cmt>Turn left onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="34.92427" lon="137.44615">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.92433" lon="137.44668">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.92384" lon="137.44776">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.92158" lon="137.44655">
+      <name>Left</name>
+      <cmt>Turn left onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="34.91272" lon="137.45957">
+      <name>Right</name>
+      <cmt>Sharp right</cmt>
+    </rtept>
+    <rtept lat="34.91096" lon="137.46513">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.90769" lon="137.46779">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.90787" lon="137.47017">
+      <name>Right</name>
+      <cmt>Slight right onto 国道301号</cmt>
+    </rtept>
+    <rtept lat="34.90417" lon="137.4812">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.90711" lon="137.48433">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.90708" lon="137.48436">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.90871" lon="137.48615">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.90853" lon="137.48689">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.90915" lon="137.48677">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.90918" lon="137.49143">
+      <name>Left</name>
+      <cmt>Slight left</cmt>
+    </rtept>
+    <rtept lat="34.91219" lon="137.49915">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.9114" lon="137.50018">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.91287" lon="137.50526">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.91025" lon="137.50637">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.91082" lon="137.50981">
+      <name>Left</name>
+      <cmt>Turn left at 新城東高校南（交差点） onto 県道392号</cmt>
+    </rtept>
+    <rtept lat="34.91217" lon="137.5098">
+      <name>Right</name>
+      <cmt>Turn right at 新城東高校前（交差点） onto 新城バイパス/​国道151号</cmt>
+    </rtept>
+    <rtept lat="34.92433" lon="137.55956">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.92372" lon="137.55991">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.92685" lon="137.56603">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.9266" lon="137.56702">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.92546" lon="137.56709">
+      <name>Right</name>
+      <cmt>Turn right toward 県道439号/​県道69号</cmt>
+    </rtept>
+    <rtept lat="34.925" lon="137.56604">
+      <name>Left</name>
+      <cmt>Turn left onto 県道439号/​県道69号</cmt>
+    </rtept>
+    <rtept lat="34.93182" lon="137.57787">
+      <name>Right</name>
+      <cmt>Turn right at 乗本（交差点） onto 国道257号 (signs for Hamamatsu/​Inasa)</cmt>
+    </rtept>
+    <rtept lat="34.92661" lon="137.5875">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.92507" lon="137.58775">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.92357" lon="137.58957">
+      <name>Straight</name>
+      <cmt>Continue onto 国道257号</cmt>
+    </rtept>
+    <rtept lat="34.91361" lon="137.60539">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.91345" lon="137.60476">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.91031" lon="137.60381">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.90033" lon="137.60652">
+      <name>Straight</name>
+      <cmt>Continue onto 県道81号</cmt>
+    </rtept>
+    <rtept lat="34.86986" lon="137.57936">
+      <name>Left</name>
+      <cmt>県道81号 turns slightly left and becomes 県道392号</cmt>
+    </rtept>
+    <rtept lat="34.85989" lon="137.59546">
+      <name>Straight</name>
+      <cmt>Continue onto 県道303号</cmt>
+    </rtept>
+    <rtept lat="34.86196" lon="137.59922">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.8624" lon="137.60375">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.8578" lon="137.62125">
+      <name>Right</name>
+      <cmt>Turn right onto 県道303号/​県道68号</cmt>
+    </rtept>
+    <rtept lat="34.84082" lon="137.63218">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84052" lon="137.63488">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84056" lon="137.6349">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84111" lon="137.63677">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84104" lon="137.63694">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84436" lon="137.64229">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84448" lon="137.64235">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="34.84385" lon="137.6478">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="34.84473" lon="137.64855">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>
